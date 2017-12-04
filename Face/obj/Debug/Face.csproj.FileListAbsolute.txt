@@ -1,0 +1,13 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Face\Face\bin\Debug\Face.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\Face\Face\obj\Debug\Face.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\Face\Face\obj\Debug\Face.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Face\Face\obj\Debug\Face.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Face\Face\obj\Debug\Face.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\Face\Face\bin\Debug\Face.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Face\Face\bin\Debug\Face.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Face\Face\bin\Debug\AipSdk.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Face\Face\bin\Debug\Newtonsoft.Json.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Face\Face\bin\Debug\AipSdk.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Face\Face\bin\Debug\Newtonsoft.Json.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Face\Face\obj\Debug\Face.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Face\Face\obj\Debug\Face.pdb
